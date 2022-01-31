@@ -1,4 +1,6 @@
 ### Monster AI States
+All states can bee seen in [Monster States](Assets/Scripts/MonsterStates)
+
 - Monsters detect player using sight
 - On detection, enter `ChasingState`
 - On reaching player, enter `AttackState`
